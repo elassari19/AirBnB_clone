@@ -1,0 +1,47 @@
+
+.filters {
+  color: #fff;
+  height: 70px;
+  width: 100%;
+  border: 1px solid #DDDDDD;
+  border-radius: 4px;
+}
+
+.filters button {
+  font-size: 18px;
+  background: #FF5A5F;
+  color: #FFFFFF;
+  height: 48px;
+  width: 20%;
+  border-radius: 4px;
+  right: 30px;
+}
+
+.filters button:hover {
+  opacity: 90%;
+}
+
+.locations {
+  height: 100%;
+  width: 25%;
+  height: 100%;
+  margin: 0;
+  border-right: 1px solid #DDDDDD;
+  
+}
+
+.amenities {
+  height: 100%;
+  width: 25%;
+  height: 100%;
+  margin: auto;
+}
+
+h3.title {
+  font-weight: 600;
+}
+
+h4.subtitle {
+  font-size: 14px;
+  font-weight: 400;
+}
