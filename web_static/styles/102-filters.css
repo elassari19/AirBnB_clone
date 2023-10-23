@@ -80,3 +80,14 @@ h4.subtitle {
 .popover h2 {
   font-size: 16px;
 }
+@media screen and (min-width: 300px) {
+  .fillter {
+    width: 90%;
+  }
+  .filters button {
+    margin-right: 10px;
+  }
+  .locations, .amenities {
+    padding-left: 10px;
+  }
+}

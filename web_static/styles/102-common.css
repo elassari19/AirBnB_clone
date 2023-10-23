@@ -25,3 +25,13 @@ body {
   flex-direction: column;
   align-items: center;
 }
+@media screen and (min-width: 769px) {
+  .container {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 300px) {
+  .container {
+    width: 100%;
+  }
+}
